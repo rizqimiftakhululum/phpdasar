@@ -1,0 +1,11 @@
+Persiapan lingkungan pengembangan
+
+1. client-side vs. server-side scripting
+   - client side scripting
+   - client server-side scripting
+     web browser->web server->
+2. cara install
+   - Apache
+   - php
+   - MySQL
+   tapi ada All-in-one Packages (WAMP, MAMP, LAMP, XAMPP(crossplatform apache MariaDB PHP Perl))

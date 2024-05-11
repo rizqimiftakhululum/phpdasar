@@ -1,0 +1,27 @@
+Sejarah PHP
+
+PHP dibuat oleh Rasmus Lerdorf pada tahun 1994, PHP awalnya Bernama "Personal Home Page"
+
+# PHP/FI, 1994
+  Personal Home Page / Form Interpreter
+# PHP Tools v.1, 1995
+# PHP Tools v.2, 1997
+# PHP 3, 1998, di buat oleh (zeev suraski & Andi gutmans)
+  sekarang Bernama PHP: Hypertext Preprocessor
+# PHP 4, 2000 di kembangkan oleh (zend engine)
+# PHP 5, 2004 di update paling besar karena sudah bisa OOP
+  zend engine, oop, php data object (PDO)
+# 2008, PHP 4 berhenti dikembangkan (Gerakan GoPHP5, karena sebelumnya parallel php 4 dan 5 sama sama dikembangkan karena banyak server yang support php 4)
+# PHP 6
+  ditunda dan akhirnya di abaikan, masalah di Unicode (ingin bisa di berbagai Bahasa seperti jepang , jerman , cina dll), PHP 5.4, 2010
+# PHP 7, 2014
+  zend engine 3
+
+PHP punya ikon elePHPant yang di buat oleh Vincent Pointer (Boneka Gajah)
+
+Karakteristik PHP
+- ekstensi file .php
+- ditulis dalam otag php
+  - delimiter (pembatas) <?php ?>
+- bisa digunakan bersamaan dengan HTML
+- mengikuti Bahasa C (karena di buat menggunkan Bahasa C)

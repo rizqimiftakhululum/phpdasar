@@ -1,0 +1,35 @@
+PHP Untuk Pemula WPU
+
+* #Kenapa Belajar PHP?#
+1. Relatif mudah untuk pemula
+2. Pre-requisite HTML + CSS
+3. Gratis & open source (cukup mengunjungi websitenya untuk mendownloadnya)
+4. Dukungan komunitas sangat besar (search php di google belasan miliar)
+5. Dokumentasi yang sangat lengkap
+6. PHP dibuat khusus untuk web
+7. kebanyakan website yang ada saat ini dibuat dengan PHP
+8. Banyak website besar yang dibuat dengan PHP
+   - Facebook (Meskipun saat ini dibuat dengan bahasanya sendiri tetapi sebelumnya dibuat menggunakan PHP)
+   - Yahoo
+   - Wikipedia
+   - Flickr (Website penyedia layanan foto)
+9. Conten Management Sistem (CMS) yang menggunakan PHP
+   - Wordpress, Joomla, Drupal, Moodle
+10. Framework PHP yang sangat banyak (CI, CakePHP, YII Framework, Laravel, Symfony)
+
+* #Apa sih yang akan di pelajari pada kali ini?#
+- client-side vs. server-side scripting
+- static vs. dynamic website
+- persiapan lingkungan pengembangan
+- sintaks PHP
+- array
+- request method (pengiriman dan penerimaan antar data pada halaman)
+- study kasus website sederhana (database, CRUD, login & registrasi, session & cookie, ajax, upload file, reporting, web hosting)
+
+* #Apa saja yang perlu digunakan?#
+1. Code Editor
+2. Web Server
+3. Web Browser
+4. Database Server
+
+* #Sudah siap?#
